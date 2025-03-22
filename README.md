@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, currently a student working on small coding projects on weekends mostly with Python.
+Interested in AI and Engineering because of current studies and research focus.
